@@ -1,0 +1,6 @@
+#:GATKReport.v1.1:1
+#:GATKTable:10:1:%s:%s:%s:%s:%s:%s:%s:%s:%s:%s:;
+#:GATKTable:_function_:Job logs for _function_
+jobName        exechosts             startTime      formattedStartTime     analysisName  iteration  intermediate  formattedDoneTime      runtime  doneTime     
+HelloWorld5-1  tscc-login2.sdsc.edu  1385533677512  13-11-26 22:27:57:512  _function_            1  false         13-11-26 22:27:57:515        3  1385533677515
+
